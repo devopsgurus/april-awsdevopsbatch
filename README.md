@@ -1,2 +1,1 @@
-# april-devopsbatch
-This is for April Devops Batch
+This is test repository for learning!!
